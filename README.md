@@ -1,2 +1,2 @@
 # MyCertificates
-This Repository Holds every certificate which I obtained in part of my professional career In order to showcase My skills
+"This repository contains all the certificates I have earned throughout my professional career, showcasing my skills and achievements."
